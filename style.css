@@ -64,9 +64,7 @@ margin-top:25px;
     height:3rem;
     border: none;   
 }
-/* .btn:hover{
-    background-color: hsl(216, 6%, 48%);
-} */
+
 .btn:hover{
     background-color: rgb(236, 106, 59);
 }
